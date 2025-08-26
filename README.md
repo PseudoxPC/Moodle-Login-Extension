@@ -4,7 +4,7 @@ This is an extension for students of MITS Gwalior so that they can directly logi
 ## Installation
 Clone the Repository
 ```bash
-git clone https://github.com/TanmaySawankar390/Moodle-Auto-Login.git
+git clone https://github.com/PseudoxPC/Moodle-Login-Extension.git
 ```
 ## Instructions
 01. Open the file named content.js
